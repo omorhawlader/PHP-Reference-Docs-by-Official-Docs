@@ -47,7 +47,7 @@ Nice, but what does that mean by it can be embedded into HTML? An example:
 
 # What can PHP do?
 
->Anything. PHP is mainly focused on server-side scripting, so you can do anything any other CGI program can do, such as collect form data, generate dynamic page content, or send and receive cookies. But PHP can do much more.
+### Anything. PHP is mainly focused on server-side scripting, so you can do anything any other CGI program can do, such as collect form data, generate dynamic page content, or send and receive cookies. But PHP can do much more.
 
 ## There are three main areas where PHP scripts are used.
 
