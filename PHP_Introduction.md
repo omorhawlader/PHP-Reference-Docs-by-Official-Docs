@@ -1,6 +1,6 @@
 ## what is php?
 
-> PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML. `Although PHP's development is focused on server-side scripting,but you can do much more with it`
+ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML. `Although PHP's development is focused on server-side scripting,but you can do much more with it`
 
 Nice, but what does that mean by it can be embedded into HTML? An example:
 
@@ -23,16 +23,16 @@ Nice, but what does that mean by it can be embedded into HTML? An example:
 
 # PHP Creator.
 
-> It was originally created by Danish-Canadian programmer `Rasmus Lerdorf` in 1993 and released in 1995
+ It was originally created by Danish-Canadian programmer `Rasmus Lerdorf` in 1993 and released in 1995
 
 
 # What is the full form of PHP?
 
->The full form of PHP is `Hypertext Preprocessor`. It was abbreviated previously as `Personal Home Page`.
+The full form of PHP is `Hypertext Preprocessor`. It was abbreviated previously as `Personal Home Page`.
 
 # What can PHP do?
 
->Anything. PHP is mainly focused on server-side scripting, so you can do anything any other CGI program can do, such as collect form data, generate dynamic page content, or send and receive cookies. But PHP can do much more.
+Anything. PHP is mainly focused on server-side scripting, so you can do anything any other CGI program can do, such as collect form data, generate dynamic page content, or send and receive cookies. But PHP can do much more.
 
 ## There are three main areas where PHP scripts are used.
 
@@ -49,7 +49,7 @@ Nice, but what does that mean by it can be embedded into HTML? An example:
 
 ### why `Laragon`?
 
-> “Laragon is a portable, isolated, fast, and powerful universal development environment for PHP, NodeJS, Python, Java, Go, and Ruby. It is fast, lightweight, easy to use, and easy to extend.” True to their words, LARAGON is powerful.
+ “Laragon is a portable, isolated, fast, and powerful universal development environment for PHP, NodeJS, Python, Java, Go, and Ruby. It is fast, lightweight, easy to use, and easy to extend.” True to their words, LARAGON is powerful.
 
 [`Download Link - Laragon`](https://laragon.org/download/)
 
@@ -59,7 +59,7 @@ Nice, but what does that mean by it can be embedded into HTML? An example:
 
 
 
-> now all we need to do! just go to your installing dir like me `C:\laragon\www`. how you can create folder or file to play the php code or do some project! previous screen-short we can see a page this is coming form the `C:\laragon\www\index.php` as a root. if you delete this file then its show blank white screen with `Index of` text!
+ now all we need to do! just go to your installing dir like me `C:\laragon\www`. how you can create folder or file to play the php code or do some project! previous screen-short we can see a page this is coming form the `C:\laragon\www\index.php` as a root. if you delete this file then its show blank white screen with `Index of` text!
 
 ![black-screen](./ss-images/deleteindex.php.png)
 
